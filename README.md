@@ -1,1 +1,2 @@
-# fikir
+# fikir belirtin
+Issues kısmını kullanın
